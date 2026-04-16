@@ -1,7 +1,7 @@
 {
   "versions": [
      {
-      "version": "1.2.0",
+      "version": "1.0.0",
       "date": "2025-04-13",
       "downloadUrl": "https://drive.google.com/drive/folders/1JrH9nQoHPSQBO6rpREWZgIy3mTpSy5AE?usp=drive_link",
       "changes": ["Добавлен инструмент для разбиения/соединения шейповых слоев", 
