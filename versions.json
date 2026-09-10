@@ -1,11 +1,12 @@
 {
   "versions": [
     {
-  "version": "1.4.0",
+  "version": "1.4.1",
   "date": "2026-09-10",
   "downloadUrl": "https://drive.google.com/drive/folders/1JrH9nQoHPSQBO6rpREWZgIy3mTpSy5AE?usp=drive_link",
   "changes": [
     "ОБНОВЛЁН дизайн панели — Material 3 Expressive",
+    "ДОБАВЛЕН инструмент для выравнивания кейфреймов",
     "ДОБАВЛЕНО 10 цветовых тем с сохранением между перезапусками (Настройки → Общие → Тема)",
     "Тема включается в экспорт и импорт резервной копии данных",
     "ОБНОВЛЁН Responsive Box — масштабирование offset и anchor-null при изменении размера композиции",
