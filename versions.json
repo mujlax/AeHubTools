@@ -1,6 +1,14 @@
 {
   "versions": [
     {
+      "version": "1.4.4",
+      "date": "2026-09-10",
+      "changes": [
+        "В Custom Expressions увеличены кнопки действий и иконки для лучшей читаемости."
+      ],
+      "downloadUrl": "https://github.com/mujlax/AeHubTools/releases/download/v1.4.4/animation_script_1.4.4.zip"
+    },
+    {
       "version": "1.4.3",
       "date": "2026-09-10",
       "changes": [
