@@ -1,31 +1,41 @@
 {
   "versions": [
     {
-  "version": "1.4.1",
-  "date": "2026-09-10",
-  "downloadUrl": "https://drive.google.com/drive/folders/1JrH9nQoHPSQBO6rpREWZgIy3mTpSy5AE?usp=drive_link",
-  "changes": [
-    "ОБНОВЛЁН дизайн панели — Material 3 Expressive",
-    "ДОБАВЛЕН инструмент для выравнивания кейфреймов",
-    "ДОБАВЛЕНО 10 цветовых тем с сохранением между перезапусками (Настройки → Общие → Тема)",
-    "Тема включается в экспорт и импорт резервной копии данных",
-    "ОБНОВЛЁН Responsive Box — масштабирование offset и anchor-null при изменении размера композиции",
-    "В CONTROL добавлены переключатели Scale Rect Offsets и Scale Anchor Nulls",
-    "ДОБАВЛЕН инструмент Timeline Skew — сдвиг, stagger, randomize, liquify и цепочка операций для слоёв, In/Out и keyframes",
-    "ОБНОВЛЁН Duplicate Mask — разделение слоя двумя масками по X или Y",
-    "ОБНОВЛЁН Paste Image — опции «Гайд» и «В комп» с сохранением между сессиями",
-    "ОБНОВЛЁН Temporal Interpolator — компактное меню действий с пресетами и улучшенные слайдеры",
-    "ОБНОВЛЁН Comp Size Finder — выделение композиции в Project и Fit to Comp из результатов поиска",
-    "ДОБАВЛЕНА кнопка переименования пресета сетки в toolbar"
-  ]
-},
+      "version": "1.4.2",
+      "date": "2026-09-10",
+      "changes": [
+        "Добавлены установщики для Windows и macOS с удалением предыдущей версии.",
+        "В ZIP добавлена краткая инструкция по установке для Windows и macOS.",
+        "Добавлены автоматическая подготовка и публикация релизов в GitHub.",
+        "Версия автоматически повышается при подготовке релиза."
+      ],
+      "downloadUrl": "https://github.com/mujlax/AeHubTools/releases/download/v1.4.2/animation_script_1.4.2.zip"
+    },
+    {
+      "version": "1.4.1",
+      "date": "2026-09-10",
+      "downloadUrl": "https://drive.google.com/drive/folders/1JrH9nQoHPSQBO6rpREWZgIy3mTpSy5AE?usp=drive_link",
+      "changes": [
+        "ОБНОВЛЁН дизайн панели — Material 3 Expressive",
+        "ДОБАВЛЕН инструмент для выравнивания кейфреймов",
+        "ДОБАВЛЕНО 10 цветовых тем с сохранением между перезапусками (Настройки → Общие → Тема)",
+        "Тема включается в экспорт и импорт резервной копии данных",
+        "ОБНОВЛЁН Responsive Box — масштабирование offset и anchor-null при изменении размера композиции",
+        "В CONTROL добавлены переключатели Scale Rect Offsets и Scale Anchor Nulls",
+        "ДОБАВЛЕН инструмент Timeline Skew — сдвиг, stagger, randomize, liquify и цепочка операций для слоёв, In/Out и keyframes",
+        "ОБНОВЛЁН Duplicate Mask — разделение слоя двумя масками по X или Y",
+        "ОБНОВЛЁН Paste Image — опции «Гайд» и «В комп» с сохранением между сессиями",
+        "ОБНОВЛЁН Temporal Interpolator — компактное меню действий с пресетами и улучшенные слайдеры",
+        "ОБНОВЛЁН Comp Size Finder — выделение композиции в Project и Fit to Comp из результатов поиска",
+        "ДОБАВЛЕНА кнопка переименования пресета сетки в toolbar"
+      ]
+    },
     {
       "version": "1.3.2",
       "date": "2025-05-12",
       "downloadUrl": "https://drive.google.com/drive/folders/1JrH9nQoHPSQBO6rpREWZgIy3mTpSy5AE?usp=drive_link",
       "changes": [
-        "ОБНОВЛЕН временный инструмент для ресайза т2",
-        
+        "ОБНОВЛЕН временный инструмент для ресайза т2"
       ]
     },
     {
@@ -33,15 +43,15 @@
       "date": "2025-05-08",
       "downloadUrl": "https://drive.google.com/drive/folders/1JrH9nQoHPSQBO6rpREWZgIy3mTpSy5AE?usp=drive_link",
       "changes": [
-        "Добавлен временный инструмент для ресайза т2",
-        
+        "Добавлен временный инструмент для ресайза т2"
       ]
     },
-     {
+    {
       "version": "1.3.0",
       "date": "2025-05-07",
       "downloadUrl": "https://drive.google.com/drive/folders/1JrH9nQoHPSQBO6rpREWZgIy3mTpSy5AE?usp=drive_link",
-      "changes": ["ИСПРАВИЛ ОБНОВУ ПО ВЕРСИЯМИ", 
+      "changes": [
+        "ИСПРАВИЛ ОБНОВУ ПО ВЕРСИЯМИ",
         "Добавлен инструмент для Создания своих экспрешенов",
         "Добавлен инструмент для Реверса кейфремов",
         "Добавлен интструмент для Сортировки и создания структуры папок",
@@ -53,14 +63,16 @@
         "Улучшена вставка изображений из фигмы в инструменте From clipboard, а также возможность вставки Svg из фигмы (beta)",
         "Исправлен инструмент Null Group для создания Null (теперь в нужном место и учитывает иерархию)",
         "Добавлен инструмент для разбиения/соединения шейповых слоев"
-        
       ]
     },
     {
       "version": "1.0.0",
       "date": "2025-03-06",
       "downloadUrl": "https://drive.google.com/drive/folders/1Jox0pQw1FC9BWnZcyi0x-98tjLBV7Rzk?usp=sharing",
-      "changes": ["Описание изменений 1", "Описание изменений 2"]
+      "changes": [
+        "Описание изменений 1",
+        "Описание изменений 2"
+      ]
     }
   ]
 }
