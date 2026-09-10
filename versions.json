@@ -1,6 +1,20 @@
 {
   "versions": [
     {
+      "version": "1.4.3",
+      "date": "2026-09-10",
+      "changes": [
+        "Восстановлены исходники Timeline Skew с предпросмотром и цепочками операций.",
+        "Восстановлены изменения Duplicate Mask, Paste Image, Temporal Interpolator и Comp Size Finder.",
+        "Восстановлены Custom Expressions и привязка ключей Snap Keyframes к кадрам.",
+        "Восстановлены ручная проверка обновлений, стабильная высота настроек и отступы Timeline Skew.",
+        "Восстановлены автоматическая подготовка и публикация релизов с повышением патч-версии.",
+        "Установщики Windows/macOS защищают папки исходников от удаления при обновлении.",
+        "В архив включена инструкция установки и разрешения запуска на macOS."
+      ],
+      "downloadUrl": "https://github.com/mujlax/AeHubTools/releases/download/v1.4.3/animation_script_1.4.3.zip"
+    },
+    {
       "version": "1.4.2",
       "date": "2026-09-10",
       "changes": [
