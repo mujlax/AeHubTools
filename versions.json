@@ -1,6 +1,24 @@
 {
   "versions": [
     {
+  "version": "1.4.0",
+  "date": "2026-09-10",
+  "downloadUrl": "https://drive.google.com/drive/folders/1JrH9nQoHPSQBO6rpREWZgIy3mTpSy5AE?usp=drive_link",
+  "changes": [
+    "ОБНОВЛЁН дизайн панели — Material 3 Expressive",
+    "ДОБАВЛЕНО 10 цветовых тем с сохранением между перезапусками (Настройки → Общие → Тема)",
+    "Тема включается в экспорт и импорт резервной копии данных",
+    "ОБНОВЛЁН Responsive Box — масштабирование offset и anchor-null при изменении размера композиции",
+    "В CONTROL добавлены переключатели Scale Rect Offsets и Scale Anchor Nulls",
+    "ДОБАВЛЕН инструмент Timeline Skew — сдвиг, stagger, randomize, liquify и цепочка операций для слоёв, In/Out и keyframes",
+    "ОБНОВЛЁН Duplicate Mask — разделение слоя двумя масками по X или Y",
+    "ОБНОВЛЁН Paste Image — опции «Гайд» и «В комп» с сохранением между сессиями",
+    "ОБНОВЛЁН Temporal Interpolator — компактное меню действий с пресетами и улучшенные слайдеры",
+    "ОБНОВЛЁН Comp Size Finder — выделение композиции в Project и Fit to Comp из результатов поиска",
+    "ДОБАВЛЕНА кнопка переименования пресета сетки в toolbar"
+  ]
+},
+    {
       "version": "1.3.2",
       "date": "2025-05-12",
       "downloadUrl": "https://drive.google.com/drive/folders/1JrH9nQoHPSQBO6rpREWZgIy3mTpSy5AE?usp=drive_link",
