@@ -1,6 +1,14 @@
 {
   "versions": [
     {
+      "version": "1.4.8",
+      "date": "2026-09-14",
+      "changes": [
+        "Text Box: фон под выбранный текстовый слой с отступами, скруглением, pill mode и expressions."
+      ],
+      "downloadUrl": "https://github.com/mujlax/AeHubTools/releases/download/v1.4.8/animation_script_1.4.8.zip"
+    },
+    {
       "version": "1.4.7",
       "date": "2026-09-14",
       "changes": [
