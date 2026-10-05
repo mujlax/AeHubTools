@@ -1,6 +1,15 @@
 {
   "versions": [
     {
+      "version": "1.4.10",
+      "date": "2026-10-05",
+      "changes": [
+        "Добавлена кнопка «AE на английском» в разделе утилит: переключение installedLanguages на en_US через AMT/application.xml текущей установки After Effects.",
+        "Переключение выполняется в отдельном окне после закрытия AE, с резервной копией XML и запросом прав администратора при необходимости. Если application.xml отсутствует, инструмент сообщает о недоступности способа 1."
+      ],
+      "downloadUrl": "https://github.com/mujlax/AeHubTools/releases/download/v1.4.10/animation_script_1.4.10.zip"
+    },
+    {
       "version": "1.4.9",
       "date": "2026-09-30",
       "changes": [
