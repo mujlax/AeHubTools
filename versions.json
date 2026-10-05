@@ -1,6 +1,15 @@
 {
   "versions": [
     {
+      "version": "1.4.11",
+      "date": "2026-10-05",
+      "changes": [
+        "macOS-установщик включает PlayerDebugMode для CEP 11 и 12 без sudo до замены панели; при ошибке настройки прежняя установка сохраняется.",
+        "Обновлена инструкция установки на macOS: Extensions (Legacy), команды для ручной настройки CEP, разрешение запуска через «Всё равно открыть» и ограничение Safe Mode."
+      ],
+      "downloadUrl": "https://github.com/mujlax/AeHubTools/releases/download/v1.4.11/animation_script_1.4.11.zip"
+    },
+    {
       "version": "1.4.10",
       "date": "2026-10-05",
       "changes": [
